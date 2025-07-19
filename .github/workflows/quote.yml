@@ -23,10 +23,13 @@ jobs:
       run: python scripts/quote.py
 
     - name: ✅ Commit and Push changes
+      env:
+        TOKEN: ${{ secrets.MY_PAT_TOKEN }}
       run: |
         git config --global user.name 'shamkumar06'
         git config --global user.email 'you@example.com'
         git add README.md
         git diff --cached --quiet || git commit -m "🔁 Update Quote of the Day"
-        git push
+        git remote set-url origin https://shamkumar06:${TOKEN}@github.com/shamkumar06/Shamkumar06.git
+        git push origin main
 
