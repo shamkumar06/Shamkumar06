@@ -1,4 +1,6 @@
-name: 🧠 Update README with Quote
+permissions:
+  contents: write
+  name: 🧠 Update README with Quote
 
 on:
   workflow_dispatch:
@@ -27,7 +29,7 @@ jobs:
         TOKEN: ${{ secrets.MY_PAT_TOKEN }}
       run: |
         git config --global user.name 'shamkumar06'
-        git config --global user.email 'you@example.com'
+        git config --global user.email 'sham8056071949@gmail.com'
         git add README.md
         git diff --cached --quiet || git commit -m "🔁 Update Quote of the Day"
         git remote set-url origin https://shamkumar06:${TOKEN}@github.com/shamkumar06/Shamkumar06.git
