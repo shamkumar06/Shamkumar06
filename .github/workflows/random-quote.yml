@@ -8,6 +8,7 @@ on:
 jobs:
   update-quote:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -25,12 +26,12 @@ jobs:
             "Curiosity is my constant variable."
           )
           picked="${quotes[$RANDOM % ${#quotes[@]}]}"
-          echo "quote=$picked" >> $GITHUB_OUTPUT
+          echo "quote=$picked" >> "$GITHUB_OUTPUT"
 
       - name: Update README.md
         run: |
           quote="${{ steps.quote.outputs.quote }}"
-          awk -v q="$quote" '
+          awk -v q="> 💡 $quote" '
             BEGIN {start=0}
             /<!--START_SECTION:random-quote-->/ {print; print q; start=1; next}
             /<!--END_SECTION:random-quote-->/ {start=0}
@@ -47,6 +48,4 @@ jobs:
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "🔁 Update quote of the day" || echo "No changes to commit"
-          git push origin main
-
-
+          git push origin main || echo "Nothing to push"
