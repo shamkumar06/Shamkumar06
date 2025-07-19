@@ -2,7 +2,7 @@ name: 🔁 Update Quote of the Day
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at 00:00 UTC
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate random quote
+        id: quote
         run: |
           quotes=(
             "Biotech meets bytes – building the future."
@@ -23,21 +24,23 @@ jobs:
             "Science without code is just notes."
             "Curiosity is my constant variable."
           )
-          echo "✅ Picked a random quote"
-
-          quote="${quotes[$RANDOM % ${#quotes[@]}]}"
-          echo "<!--START_SECTION:random-quote-->" > temp.md
-          echo "$quote" >> temp.md
-          echo "<!--END_SECTION:random-quote-->" >> temp.md
+          picked="${quotes[$RANDOM % ${#quotes[@]}]}"
+          echo "quote=$picked" >> $GITHUB_OUTPUT
 
       - name: Update README.md
         run: |
-          sed -i '/<!--START_SECTION:random-quote-->/,<!--END_SECTION:random-quote-->/c\
-          '"$(cat temp.md | sed ':a;N;$!ba;s/\n/\\n/g')" README.md
+          quote="${{ steps.quote.outputs.quote }}"
+          awk -v q="$quote" '
+            BEGIN {start=0}
+            /<!--START_SECTION:random-quote-->/ {print; print q; start=1; next}
+            /<!--END_SECTION:random-quote-->/ {start=0}
+            !start {print}
+          ' README.md > temp_readme.md
+          mv temp_readme.md README.md
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git commit -am "🔁 update quote of the day"
+          git commit -am "🔁 Update quote of the day"
           git push
