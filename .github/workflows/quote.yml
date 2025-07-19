@@ -1,36 +1,41 @@
-permissions:
-  contents: write
-  name: 🧠 Update README with Quote
+name: ✨ Daily Quote Updater
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at 12:00 AM UTC
+  workflow_dispatch:     # Allows manual trigger
+
+permissions:
+  contents: write  # Needed to push to the repo
 
 jobs:
-  update-readme:
+  update-quote:
     runs-on: ubuntu-latest
 
+    env:
+      TOKEN: ${{ secrets.MY_PAT_TOKEN }}
+
     steps:
-    - name: ⬇️ Checkout Repository
-      uses: actions/checkout@v3
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: 🐍 Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    - name: 📦 Install dependencies
-      run: pip install requests
+      - name: 📦 Install Python Dependencies
+        run: |
+          pip install -r requirements.txt || echo "No requirements.txt, skipping..."
 
-    - name: 🧾 Run Python script
-      run: python scripts/quote.py
+      - name: 🚀 Run quote.py Script
+        run: python quote.py
 
-    - name: ✅ Commit and Push changes
-      env:
-        TOKEN: ${{ secrets.MY_PAT_TOKEN }}
-      run: |
-        git config --global user.name 'shamkumar06'
-        git config --global user.email 'sham8056071949@gmail.com'
-        git add README.md
-        git diff --cached --quiet || git commit -m "🔁 Update Quote of the Day"
-        git remote set-url origin https://shamkumar06:${TOKEN}@github.com/shamkumar06/Shamkumar06.git
-        git push origin main
+      - name: 📤 Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "📝 updated quote for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git remote set-url origin https://shamkumar06:${TOKEN}@github.com/shamkumar06/Shamkumar06.git
+          git push
