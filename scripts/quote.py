@@ -1,5 +1,4 @@
 import requests
-import re
 
 README_PATH = "README.md"
 
