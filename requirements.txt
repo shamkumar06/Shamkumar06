@@ -1,3 +1,6 @@
 requests
 numpy
 # Add more if needed
+git add requirements.txt
+git commit -m "add: requirements.txt for GitHub Actions"
+git push
