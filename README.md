@@ -20,9 +20,9 @@
 
 ###
 
-<h2 align="center" </h2>"Always learning. Always building. Always evolving"</h2>
+<h2 align="center" <h3>"Always learning. Always building. Always evolving"<h3>
 
-###
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <h2 align="left">I've experienced with</h2>
 
@@ -55,12 +55,12 @@
   <img width="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="62" alt="kaggle logo"  />
 </div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-###
 <h2 align="left">Can connect in</h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/sham-kumar-1303b6365" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
 </a>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
@@ -75,7 +75,9 @@
 <h2 align="left">📈GitHub Performance Overview</h2>
 <div align="center">
   <img align=centre src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200"   />
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200"   />
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <img align=centre src="https://github-readme-activity-graph.vercel.app/graph?username=shamkumar06&radius=16&theme=react&area=true&order=50" height="300" alt="activity-graph graph"  />
 </div>
 
