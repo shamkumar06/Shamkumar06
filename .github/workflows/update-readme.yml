@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Python Script
+        run: |
+          python scripts/quote.py
+
+      - name: Commit README changes
+        run: |
+          git config --global user.name 'shamkumaar'
+          git config --global user.email 'your-email@example.com'
+          git add README.md
+          git commit -m "✨ Update daily quote"
+          git push
