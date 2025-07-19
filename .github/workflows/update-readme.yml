@@ -2,8 +2,9 @@ name: Update README
 
 on:
   schedule:
-    - cron: '49 11 * * *' # 5:19 PM IST
+    - cron: '51 11 * * *' 
   workflow_dispatch:
+
 
 jobs:
   update-readme:
