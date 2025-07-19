@@ -1,32 +1,30 @@
-name: Quote Generator
+name: Update README with Quote
 
 on:
-  schedule:
-    - cron: '0 12 * * *'  # 🔁 Runs daily at 5:30 PM IST
-  workflow_dispatch:
+  workflow_dispatch: # manual trigger
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+    - uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
 
-      - name: Install axios
-        run: npm install axios
+    - name: Install requests
+      run: pip install requests
 
-      - name: Run quote updater
-        run: node quote.js
+    - name: Run Python script
+      run: python quote.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "🔁 Update daily quote"
-          git push
+    - name: Commit and Push if Changed
+      run: |
+        git config --global user.name 'shamkumar06'
+        git config --global user.email 'you@example.com'
+        git add README.md
+        git diff --cached --quiet || git commit -m "Update Quote"
+        git push
