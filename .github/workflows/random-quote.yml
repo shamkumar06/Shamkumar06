@@ -1,0 +1,43 @@
+name: 🔁 Update Quote of the Day
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # every day at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate random quote
+        run: |
+          quotes=(
+            "Biotech meets bytes – building the future."
+            "Code your curiosity. Hack your biology."
+            "DNA and data – two languages I speak fluently."
+            "From pipettes to Python, I explore both worlds."
+            "Think like a molecule. Build like a machine."
+            "Science without code is just notes."
+            "Curiosity is my constant variable."
+          )
+          echo "✅ Picked a random quote"
+
+          quote="${quotes[$RANDOM % ${#quotes[@]}]}"
+          echo "<!--START_SECTION:random-quote-->" > temp.md
+          echo "$quote" >> temp.md
+          echo "<!--END_SECTION:random-quote-->" >> temp.md
+
+      - name: Update README.md
+        run: |
+          sed -i '/<!--START_SECTION:random-quote-->/,<!--END_SECTION:random-quote-->/c\
+          '"$(cat temp.md | sed ':a;N;$!ba;s/\n/\\n/g')" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "🔁 update quote of the day"
+          git push
