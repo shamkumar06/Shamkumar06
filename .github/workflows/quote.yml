@@ -1,7 +1,7 @@
 name: 🧠 Update README with Quote
 
 on:
-  workflow_dispatch:  # Manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -32,4 +32,3 @@ jobs:
         git diff --cached --quiet || git commit -m "🔁 Update Quote of the Day"
         git remote set-url origin https://shamkumar06:${TOKEN}@github.com/shamkumar06/Shamkumar06.git
         git push origin main
-
