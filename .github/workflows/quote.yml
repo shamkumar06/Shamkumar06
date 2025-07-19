@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Required to push code
+  contents: write
 
 jobs:
   quote-update:
@@ -21,8 +21,11 @@ jobs:
         with:
           python-version: "3.10"
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Run quote script
-        run: python quote.py
+        run: python scripts/quote.py
 
       - name: Commit and Push changes
         run: |
