@@ -1,7 +1,6 @@
 # scripts/quote.py
 
 import requests
-import re
 
 def get_quote():
     response = requests.get("https://zenquotes.io/api/random")
