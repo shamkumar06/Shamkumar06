@@ -1,6 +1,8 @@
 requests
 numpy
 # Add more if needed
+requests
+beautifulsoup4
 git add requirements.txt
 git commit -m "add: requirements.txt for GitHub Actions"
 git push
