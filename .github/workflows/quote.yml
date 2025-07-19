@@ -1,12 +1,12 @@
-name: ✨ Daily Quote Updater
+name: ✨ Daily Quote Updater  
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at 12:00 AM UTC
-  workflow_dispatch:     # Allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write  # Needed to push to the repo
+  contents: write
 
 jobs:
   update-quote:
