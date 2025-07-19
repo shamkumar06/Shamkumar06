@@ -1,8 +1,8 @@
-<h1 align="left">Welcome to the world of</h1>
+<h1 align="left">🚀 Step into Sham’s Hybrid Universe</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">👨‍🔬 Half Bioengineer | 💻 Half Tech Nerd | 🔥 100% Curious<br>From cell signals to sensor data — I build systems that think, sense, and solve 🌿🤖📊</p>
 
 ###
 
@@ -10,43 +10,71 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<div align="center">
+  <img height="370" src="https://github.com/shamkumar06/Shamkumar06/blob/main/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<h4 align="center">I started my journey in the world of Biotechnology, driven by curiosity for how life works at a molecular level. Over time, that curiosity expanded into technology — especially where biology meets data, automation, and intelligent systems.<br><br>I now explore the intersection of Biotech, IoT, and AI, applying computational thinking to solve real-world biological and agricultural challenges. My work blends science with software — from sensors to code, from labs to cloud.<br><br>Always learning. Always building. Always evolving.</h4>
+
+###
+
+<h2 align="left">I experienced with</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="62" alt="androidstudio logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="62" alt="anaconda logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="62" alt="android logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="62" alt="blender logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="62" alt="figma logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="62" alt="firebase logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="62" alt="git logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="62" alt="gradle logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="62" alt="html5 logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="62" alt="javascript logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="62" alt="jupyter logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="62" alt="kaggle logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=11&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamkumar06&radius=16&theme=react&area=true&order=50" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
