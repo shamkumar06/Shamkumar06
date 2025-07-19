@@ -84,3 +84,9 @@
 </picture>
 
 ###
+### 
+🔥 Quote of the Day
+
+<!--START_SECTION:random-quote-->
+✨ Loading quote... ✨
+<!--END_SECTION:random-quote-->
