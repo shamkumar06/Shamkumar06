@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Ensure write permissions to push code
+  contents: write  # Required to push code
 
 jobs:
   quote-update:
@@ -21,20 +21,13 @@ jobs:
         with:
           python-version: "3.10"
 
-
       - name: Run quote script
         run: python quote.py
 
-      - name: Commit and Push
+      - name: Commit and Push changes
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "🔁 update: Daily quote"
+          git commit -m "🔁 update: Daily quote" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
-          git add requirements.txt
-git commit -m "🧩 Add requirements.txt for GitHub Action"
-git push
-
-        
-
