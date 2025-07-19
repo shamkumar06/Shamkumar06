@@ -1,0 +1,3 @@
+requests
+numpy
+# Add more if needed
