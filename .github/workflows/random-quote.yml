@@ -28,16 +28,18 @@ jobs:
           picked="${quotes[$RANDOM % ${#quotes[@]}]}"
           echo "quote=$picked" >> "$GITHUB_OUTPUT"
 
-      - name: Update README.md
+            - name: Update README.md
         run: |
           quote="${{ steps.quote.outputs.quote }}"
           awk -v q="> 💡 $quote" '
-            BEGIN {start=0}
-            /<!--START_SECTION:random-quote-->/ {print; print q; start=1; next}
-            /<!--END_SECTION:random-quote-->/ {start=0}
-            !start {print}
+            /<!--START_SECTION:random-quote-->/ {
+              print; getline; print q; next
+            }
+            /<!--END_SECTION:random-quote-->/ {print; next}
+            !/<!--START_SECTION:random-quote-->/ && !/<!--END_SECTION:random-quote-->/ {print}
           ' README.md > temp_readme.md
           mv temp_readme.md README.md
+
 
       - name: Commit and push
         env:
