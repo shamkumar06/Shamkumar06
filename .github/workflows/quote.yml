@@ -1,35 +1,37 @@
-# .github/workflows/quote.yml
-
-name: ✨ Update Daily Quote
+name: 🔁 Daily Quote Commit
 
 on:
   schedule:
-    - cron: '0 4 * * *' # Every day at 9:30 AM IST
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
+permissions:
+  contents: write  # Ensure write permissions to push code
+
 jobs:
-  update-quote:
+  quote-update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ⬇️ Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.x"
 
-      - name: 📦 Install dependencies
-        run: pip install requests
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: 🚀 Run quote script
-        run: python scripts/quote.py
+      - name: Run quote script
+        run: python quote.py
 
-      - name: 🔐 Commit & Push changes
+      - name: Commit and Push
         run: |
           git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git add README.md
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
           git commit -m "🔁 update: Daily quote"
-          git push
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+
