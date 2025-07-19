@@ -38,7 +38,7 @@ jobs:
           ' README.md > temp_readme.md
           mv temp_readme.md README.md
 
-          - name: Commit and push
+      - name: Commit and push
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
@@ -48,4 +48,5 @@ jobs:
           git add README.md
           git commit -m "🔁 Update quote of the day" || echo "No changes to commit"
           git push origin main
+
 
