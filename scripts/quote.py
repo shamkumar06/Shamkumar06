@@ -1,15 +1,19 @@
 import requests
+import re
 
-quote_data = requests.get("https://api.quotable.io/random").json()
-quote = f'"{quote_data["content"]}" — *{quote_data["author"]}*'
+with open("README.md", "r", encoding="utf-8") as file:
+    readme = file.read()
 
-with open("README.md", "r", encoding="utf-8") as f:
-    lines = f.readlines()
+response = requests.get("https://zenquotes.io/api/random")
+quote_data = response.json()
+quote = f"{quote_data[0]['q']} — {quote_data[0]['a']}"
 
-start = lines.index("<!--QUOTE-START-->\n")
-end = lines.index("<!--QUOTE-END-->\n")
+# Replace between the tags
+updated_readme = re.sub(
+    r"<!--QUOTE-START-->[\s\S]*?<!--QUOTE-END-->",
+    f"<!--QUOTE-START-->\n{quote}\n<!--QUOTE-END-->",
+    readme
+)
 
-lines[start + 1:end] = [quote + "\n"]
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.writelines(lines)
+with open("README.md", "w", encoding="utf-8") as file:
+    file.write(updated_readme)
