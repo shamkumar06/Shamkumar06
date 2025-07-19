@@ -1,3 +1,5 @@
+# 👋 Welcome to My Profile
+
 <!--QUOTE-START-->
-Loading daily quote...
+✨ Your daily quote will appear here ✨
 <!--QUOTE-END-->
