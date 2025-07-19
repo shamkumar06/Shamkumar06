@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=11&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamkumar06&radius=16&theme=react&area=true&order=50" height="300" alt="activity-graph graph"  />
+  <img align=centre src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200"   />
+  <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200"   />
+  <img align=centre src="https://github-readme-activity-graph.vercel.app/graph?username=shamkumar06&radius=16&theme=react&area=true&order=50" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
