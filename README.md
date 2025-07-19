@@ -64,7 +64,7 @@
 </div>
 
 ###
-
+<h2 align="left">📈GitHub Performance Overview</h2>
 <div align="center">
   <img align=centre src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200"   />
   <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200"   />
@@ -72,7 +72,7 @@
 </div>
 
 ###
-
+<h2 align="left">My Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
