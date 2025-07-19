@@ -38,9 +38,14 @@ jobs:
           ' README.md > temp_readme.md
           mv temp_readme.md README.md
 
-      - name: Commit and push
+          - name: Commit and push
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git commit -am "🔁 Update quote of the day"
-          git push
+          git config --global user.name 'shamkumar06'
+          git config --global user.email 'sham@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
+          git add README.md
+          git commit -m "🔁 Update quote of the day" || echo "No changes to commit"
+          git push origin main
+
