@@ -1,34 +1,27 @@
 import requests
+import re
 
-README_PATH = "README.md"
-
-def fetch_quote():
-    try:
-        response = requests.get("https://zenquotes.io/api/random")
-        response.raise_for_status()
-        data = response.json()
-        quote = f"**{data[0]['q']}** — *{data[0]['a']}*"
-        return quote
-    except Exception as e:
-        print(f"Error fetching quote: {e}")
-        return "**Be the change that you wish to see in the world.** — *Mahatma Gandhi*"
+def get_quote():
+    response = requests.get("https://zenquotes.io/api/random")
+    data = response.json()
+    quote = f"**{data[0]['q']}** — *{data[0]['a']}*"
+    return quote
 
 def replace_quote_in_readme(new_quote):
-    with open(README_PATH, "r", encoding="utf-8") as f:
-        content = f.read()
+    with open("README.md", "r", encoding="utf-8") as file:
+        content = file.read()
 
     updated_content = re.sub(
-        r"(<!--QUOTE-START-->)(.*?)(<!--QUOTE-END-->)",
-        f"\\1\n{new_quote}\n\\3",
+        r"<!--QUOTE-START-->.*?<!--QUOTE-END-->",
+        f"<!--QUOTE-START-->\n{new_quote}\n<!--QUOTE-END-->",
         content,
-        flags=re.DOTALL
+        flags=re.DOTALL,
     )
 
-    with open(README_PATH, "w", encoding="utf-8") as f:
-        f.write(updated_content)
-
-    print("✅ README updated with new quote.")
+    with open("README.md", "w", encoding="utf-8") as file:
+        file.write(updated_content)
 
 if __name__ == "__main__":
-    quote = fetch_quote()
+    quote = get_quote()
     replace_quote_in_readme(quote)
+
