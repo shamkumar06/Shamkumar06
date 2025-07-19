@@ -1,0 +1,32 @@
+name: Quote Generator
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 🔁 Runs daily at 5:30 PM IST
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install axios
+        run: npm install axios
+
+      - name: Run quote updater
+        run: node quote.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔁 Update daily quote"
+          git push
