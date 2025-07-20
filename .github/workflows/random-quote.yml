@@ -81,13 +81,13 @@ jobs:
           ' README.md > temp_readme.md
           mv temp_readme.md README.md
 
-      - name: Commit and push
+       - name: Commit and push quote
         env:
-          QUOTE_: ${{ secrets.QUOTE_ }}
+          GITHUB_TOKEN: ${{ secrets.QUOTE_ }}  # Use your secret token here
         run: |
           git config --global user.name 'shamkumar06'
-          git config --global user.email 'sham@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${QUOTE_}@github.com/${{ github.repository }}
-          git add README.md
+          git config --global user.email 'shamkumar06@users.noreply.github.com'
+          git add quote.txt
           git commit -m "🔁 Update quote of the day" || echo "No changes to commit"
-          git push origin main || echo "Nothing to push"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          git push origin main
