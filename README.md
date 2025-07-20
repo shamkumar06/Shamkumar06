@@ -93,6 +93,6 @@
 🔥 Quote of the Day
 
 <!--START_SECTION:random-quote-->
-> 💡 Loading quote...
+Code your curiosity. Hack your biology
 <!--END_SECTION:random-quote-->
 
