@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.QUOTE_ }}  # Use your PAT here during checkout too
 
       - name: Generate random quote
         run: |
@@ -83,11 +85,11 @@ jobs:
 
       - name: Commit and push quote
         env:
-          GITHUB_TOKEN: ${{ secrets.QUOTE_ }}
+          PAT: ${{ secrets.QUOTE_ }}
         run: |
           git config --global user.name 'shamkumar06'
           git config --global user.email 'shamkumar06@users.noreply.github.com'
           git add README.md
           git commit -m "🔁 Update quote of the day" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}.git
           git push origin main || echo "Nothing to push"
