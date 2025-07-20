@@ -83,11 +83,11 @@ jobs:
 
       - name: Commit and push
         env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          QUOTE_: ${{ secrets.QUOTE_ }}
         run: |
           git config --global user.name 'shamkumar06'
           git config --global user.email 'sham@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${QUOTE_}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "🔁 Update quote of the day" || echo "No changes to commit"
           git push origin main || echo "Nothing to push"
