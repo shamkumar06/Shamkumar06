@@ -90,9 +90,36 @@
 </picture>
 
 ###
-🔥 Quote of the Day
+# 🔁 Quote of the Day Bot
+
+This GitHub repository automatically updates a **Quote of the Day** using a custom GitHub Actions workflow.
+
+---
+
+### 🔥 Quote of the Day
 
 <!--START_SECTION:random-quote-->
-Code your curiosity. Hack your biology
+> 💡 Code your curiosity. Hack your biology.
 <!--END_SECTION:random-quote-->
+
+---
+
+### ⚙️ How It Works
+
+- 🕒 **Updates Daily at Midnight (UTC)**
+- ⚙️ Powered by [GitHub Actions](.github/workflows/quote.yml)
+- 🧠 Quote is randomly selected from a curated set of 50+ biotech + coding inspirations
+- 💾 Injected into this README using `awk` + Bash
+
+---
+
+### 📊 Workflow Status
+
+[![Update Quote of the Day](https://github.com/shamkumar06/shamkumar06/actions/workflows/quote.yml/badge.svg)](https://github.com/shamkumar06/shamkumar06/actions/workflows/quote.yml)
+
+✅ [Click here to view the latest run](https://github.com/shamkumar06/shamkumar06/actions/workflows/quote.yml)
+
+---
+
+💡 *Stay curious. Stay creative. Stay coding.*
 
