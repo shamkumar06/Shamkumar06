@@ -96,11 +96,12 @@ This GitHub repository automatically updates a **Quote of the Day** using a cust
 
 ---
 
-### 🔥 Quote of the Day
+## 🔥 Quote of the Day
 
 <!--START_SECTION:random-quote-->
 > 💡 Code your curiosity. Hack your biology.
 <!--END_SECTION:random-quote-->
+
 
 ---
 
