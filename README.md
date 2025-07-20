@@ -96,11 +96,13 @@ This GitHub repository automatically updates a **Quote of the Day** using a cust
 
 ---
 
-## 🔥 Quote of the Day
+QUOTE="🌟 Stay positive!"
+awk -v quote="$QUOTE" '
+  /<!-- START:QUOTE -->/ { print; print quote; inquote=1; next }
+  /<!-- END:QUOTE -->/ { inquote=0 }
+  !inquote
+' README.md > README.tmp && mv README.tmp README.md
 
-<!--START_SECTION:random-quote-->
-> 💡 Code your curiosity. Hack your biology.
-<!--END_SECTION:random-quote-->
 
 
 ---
