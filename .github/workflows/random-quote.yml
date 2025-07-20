@@ -90,4 +90,5 @@ jobs:
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "🔁 Update quote of the day" || echo "No changes to commit"
-          git push origin main || echo "Nothing to push"
+          git push origin output || echo "Nothing to push"
+
