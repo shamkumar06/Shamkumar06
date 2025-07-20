@@ -95,10 +95,10 @@
 This GitHub repository automatically updates a **Quote of the Day** using a custom GitHub Actions workflow.
 
 ---
+<!--START_SECTION:random-quote-->
+> 💡 Placeholder quote here
+<!--END_SECTION:random-quote-->
 
-awk -v quote="$QUOTE" '
-  /<!-- START:QUOTE -->/ 
-  /<!-- END:QUOTE -->/
  
 
 
