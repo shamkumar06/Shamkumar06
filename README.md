@@ -1,11 +1,14 @@
 <hr style="border: 1px solid #ccc; width: 80%;">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Welcome!;Hi+there!+I'm+Sham+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Welcome!" />
 </p>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Sham+%F0%9F%91%8B" />
+  </p>
 <p align="center">
   <img height="400" src=".github/Asserts/9070324cdfc07c68d60eed0c39e77573.gif"
 </p>
-  <p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Biotech+Student+%7C+Tech+Researcher;Aims+great+exposure+in+Bioinformatics" />
   </p>
   
