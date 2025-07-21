@@ -29,7 +29,7 @@
 
 <h1 align="center">✨ About Me</h1>
 
-
+## ✌️Myself
 
 ###
 
@@ -38,7 +38,8 @@
 </div>
 
 ###
-
+<h2 align="center">  Myself Sham kumar (●'◡'●)</h2>
+<h3 align="center">I’m a Biotechnology student at Prathyusha Engineering College, passionate about combining life sciences with technology. I actively explore areas like smart agriculture, IoT-based automation, and machine learning in biotech applications..</h3> 
 <h3 align="center">I started my journey in the world of Biotechnology, driven by curiosity for how life works at a molecular level. Over time, that curiosity expanded into technology — especially where biology meets data, automation, and intelligent systems.<br><br>I now explore the intersection of Biotech, IoT, and AI, applying computational thinking to solve real-world biological and agricultural challenges. My work blends science with software — from sensors to code, from labs to cloud.</h3> 
 
 ###
