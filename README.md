@@ -90,6 +90,16 @@
 </picture>
 
 ###
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sham+%F0%9F%91%8B;Biotech+Student+%7C+Tech+Researcher;AIMS+great+exposure+%26+Bioinformatics;Currently+Exploring+GitHub+%F0%9F%94%8D" /> 
+</p>
+<br>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FzeWtvMTdvYThoanJqNjNsbGNhMno4eXc1NzFjbG00Nms5MmVudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wV2Jc6QFkAhm3cfej/giphy.gif" width="500"/>
+</p>
+
+
 # 🔁 Quote of the Day Bot
 
 This GitHub repository automatically updates a **Quote of the Day** using a custom GitHub Actions workflow.
