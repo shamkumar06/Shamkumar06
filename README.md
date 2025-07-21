@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Sham+%F0%9F%91%8B;Biotech+Student+%7C+Tech+Researcher;Aims+great+exposure+in+Bioinformatics" />
+</p>
+
+
+
+<br>
+<p align="center">
+  <img height="400" src="https://github.com/shamkumar06/Shamkumar06/blob/main/9070324cdfc07c68d60eed0c39e77573.gif"
+</p>
 <h1 align="left">🚀 Step into Sham’s Hybrid Universe</h1>
 
 ###
@@ -11,7 +21,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://github.com/shamkumar06/Shamkumar06/blob/main/9070324cdfc07c68d60eed0c39e77573.gif"  />
+   <img src=".github/Asserts/WhatsApp_Image_2025-07-20_at_11.32.45_27d5e2b9-removebg-preview.png" width="500"/> 
 </div>
 
 ###
@@ -91,46 +101,5 @@
 
 ###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sham+%F0%9F%91%8B;Biotech+Student+%7C+Tech+Researcher;AIMS+great+exposure+%26+Bioinformatics;Currently+Exploring+GitHub+%F0%9F%94%8D" /> 
-</p>
-<br>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FzeWtvMTdvYThoanJqNjNsbGNhMno4eXc1NzFjbG00Nms5MmVudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wV2Jc6QFkAhm3cfej/giphy.gif" width="500"/>
-</p>
-
-
-# 🔁 Quote of the Day Bot
-
-This GitHub repository automatically updates a **Quote of the Day** using a custom GitHub Actions workflow.
-
----
-<!--START_SECTION:random-quote-->
-> 💡 Placeholder quote here
-<!--END_SECTION:random-quote-->
-
- 
-
-
-
----
-
-### ⚙️ How It Works
-
-- 🕒 **Updates Daily at Midnight (UTC)**
-- ⚙️ Powered by [GitHub Actions](.github/workflows/quote.yml)
-- 🧠 Quote is randomly selected from a curated set of 50+ biotech + coding inspirations
-- 💾 Injected into this README using `awk` + Bash
-
----
-
-### 📊 Workflow Status
-
-[![Update Quote of the Day](https://github.com/shamkumar06/shamkumar06/actions/workflows/quote.yml/badge.svg)](https://github.com/shamkumar06/shamkumar06/actions/workflows/quote.yml)
-
-✅ [Click here to view the latest run](https://github.com/shamkumar06/shamkumar06/actions/workflows/quote.yml)
-
----
-
-💡 *Stay curious. Stay creative. Stay coding.*
+# 💡 *Stay curious. Stay creative. Stay coding.*
 
