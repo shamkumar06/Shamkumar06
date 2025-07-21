@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">👨‍🔬 Half Bioengineer | 💻 Half Tech Nerd | 🔥 100% Curious<br>From cell signals to sensor data — I build systems that think, sense, and solve 🌿🤖📊</p>
+<p align="center">👨‍🔬 Half Bioengineer | 💻 Half Tech Nerd | 🔥 100% Curious<br>From cell signals to sensor data — I build systems that think, sense, and solve (●'◡'●)</p>
 
 ###
 
