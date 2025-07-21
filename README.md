@@ -1,12 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Sham+%F0%9F%91%8B;Biotech+Student+%7C+Tech+Researcher;Aims+great+exposure+in+Bioinformatics" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Welcome!;Hi+there!+I'm+Sham+%F0%9F%91%8B" />
+</p>
 
 
 <br>
 <p align="center">
   <img height="400" src="https://github.com/shamkumar06/Shamkumar06/blob/main/9070324cdfc07c68d60eed0c39e77573.gif"
+</p>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Biotech+Student+%7C+Tech+Researcher;Aims+great+exposure+in+Bioinformatics" />
+
+
+    
 </p>
 <h1 align="left">🚀 Step into Sham’s Hybrid Universe</h1>
 
@@ -79,7 +85,27 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+  ### 🌍 Location on Map:
+[📍 View My Location – Chennai, India](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
+
+<div align="center">
+
+<h3>📍 Location</h3>  
+<h4>Chennai, India</h4>
+
+<h3>📫 Contact</h3>  
+<h4>Email: <a href="mailto:sham8056071949@gmail.com">sham8056071949@gmail.com</a></h4>  
+
+<h4>Available for: Freelance • Collaborations • Hackathons • Tech Projects • Research</h4>
+
 </div>
+
+
+---
+
+
 
 ###
 <h2 align="left">📈GitHub Performance Overview</h2>
@@ -102,4 +128,9 @@
 ###
 
 # 💡 *Stay curious. Stay creative. Stay coding.*
+
+
+
+
+
 
