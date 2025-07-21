@@ -10,19 +10,23 @@
 </p>
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Biotech+Student+%7C+Tech+Researcher;Aims+great+exposure+in+Bioinformatics" />
+  </p>
+  
 
 
-    
-</p>
-<h1 align="left">🚀 Step into Sham’s Hybrid Universe</h1>
+<h1 align="center">🚀 Step into Sham’s Hybrid Universe</h1>
+
 
 ###
 
-<p align="left">👨‍🔬 Half Bioengineer | 💻 Half Tech Nerd | 🔥 100% Curious<br>From cell signals to sensor data — I build systems that think, sense, and solve 🌿🤖📊</p>
+<p align="center">👨‍🔬 Half Bioengineer | 💻 Half Tech Nerd | 🔥 100% Curious<br>From cell signals to sensor data — I build systems that think, sense, and solve 🌿🤖📊</p>
 
 ###
 
-<h2 align="left">About me</h2>
+
+<h1 align="center">✨ About Me</h1>
+
+
 
 ###
 
@@ -39,8 +43,6 @@
 <h2 align="center" <h3>"Always learning. Always building. Always evolving"<h3>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
-<h2 align="left">I've experienced with</h2>
 
 
 ###
