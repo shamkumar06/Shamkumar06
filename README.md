@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img height="400" src="https://github.com/shamkumar06/Shamkumar06/blob/main/9070324cdfc07c68d60eed0c39e77573.gif"
+  <img height="400" src=".github/Asserts/9070324cdfc07c68d60eed0c39e77573.gif"
 </p>
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Biotech+Student+%7C+Tech+Researcher;Aims+great+exposure+in+Bioinformatics" />
@@ -87,9 +87,6 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
-### 📍 Workplace  
-**Chennai, India**  
-[🔗 View on Google Maps](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
 
 ---
 
@@ -98,8 +95,10 @@
 Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Projects**, **Research**
 
 [![📍 Workplace - Chennai, India](https://img.shields.io/badge/📍%20Workplace-Chennai%2C%20India-blueviolet)](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
-[![✉️ Email - shamkumar06@gmail.com](https://img.shields.io/badge/✉️%20Email-shamkumar06@gmail.com-lightgrey)](mailto:shamkumar06@gmail.com)
 [![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://shamkumar06.github.io/)
+[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shamkumar06/)
+[![🧬 ORCID](https://img.shields.io/badge/🧬%20ORCID-View-green?logo=orcid)](https://orcid.org/0000-0000-0000-0000)
+
 
 
 </div>
