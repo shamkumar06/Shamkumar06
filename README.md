@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Biotech+Student+%7C+Tech+Researcher;Aims+great+exposure+in+Bioinformatics" />
   </p>
   
+<hr style="border: 1px solid #ccc; width: 80%;">
 
 
 <h1 align="center">🚀 Step into Sham’s Hybrid Universe</h1>
@@ -21,6 +22,7 @@
 
 ###
 
+<hr style="border: 1px solid #ccc; width: 80%;">
 
 <h1 align="center">✨ About Me</h1>
 
@@ -95,6 +97,9 @@
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
+<hr style="border: 1px solid #ccc; width: 80%;">
+
+
 <div align="center">
 
 ### 📫 Contact  
@@ -109,7 +114,9 @@ Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Project
 
 ###
 
-# 💡 *Stay curious. Stay creative. Stay coding.*
+# 💡 *Stay curious. 
+# Stay creative. 
+# Stay coding.*
 
 
 
