@@ -42,9 +42,31 @@
 
 <h2 align="left">I've experienced with</h2>
 
-###
 
-<br clear="both">
+###
+<h2 align="left">📈GitHub Performance Overview</h2>
+<div align="center">
+  <img align=centre src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200"   />
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200"   />
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  <img align=centre src="https://github-readme-activity-graph.vercel.app/graph?username=shamkumar06&radius=16&theme=tokyonight&area=true&order=50" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+<h2 align="left">My Contributions</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
+</picture>
+
+
+###
+<h2 align="left">I've experienced with</h2>
+
+###
+ <br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="62" alt="androidstudio logo"  />
@@ -73,22 +95,7 @@
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<h2 align="left">Can connect in</h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/sham-kumar-1303b6365" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-</a>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
-
-
----
 
 ### 📫 Contact  
 **Email:** [sham8056071949@gmail.com](mailto:sham8056071949@gmail.com)  
@@ -98,33 +105,7 @@ Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Project
 [![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://shamkumar06.github.io/)
 [![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/shamkumar06/](https://www.linkedin.com/in/sham-kumar-1303b6365/))
 [![🧬 ORCID](https://img.shields.io/badge/🧬%20ORCID-View-green?logo=orcid)](https://orcid.org/0009-0002-8689-5994)
-
-
-
 </div>
-
-
----
-
-
-
-###
-<h2 align="left">📈GitHub Performance Overview</h2>
-<div align="center">
-  <img align=centre src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200"   />
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200"   />
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <img align=centre src="https://github-readme-activity-graph.vercel.app/graph?username=shamkumar06&radius=16&theme=tokyonight&area=true&order=50" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-<h2 align="left">My Contributions</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
