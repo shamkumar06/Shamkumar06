@@ -87,18 +87,20 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
-  ### 🌍 Location on Map:
-[📍 View My Location – Chennai, India](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
+### 📍 Workplace  
+**Chennai, India**  
+[🔗 View on Google Maps](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
 
-<div align="center">
+---
 
-<h3>📍 Location</h3>  
-<h4>Chennai, India</h4>
+### 📫 Contact  
+**Email:** [sham8056071949@gmail.com](mailto:sham8056071949@gmail.com)  
+Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Projects**, **Research**
 
-<h3>📫 Contact</h3>  
-<h4>Email: <a href="mailto:sham8056071949@gmail.com">sham8056071949@gmail.com</a></h4>  
+[![📍 Workplace - Chennai, India](https://img.shields.io/badge/📍%20Workplace-Chennai%2C%20India-blueviolet)](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
+[![✉️ Email - shamkumar06@gmail.com](https://img.shields.io/badge/✉️%20Email-shamkumar06@gmail.com-lightgrey)](mailto:shamkumar06@gmail.com)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://shamkumar06.github.io/)
 
-<h4>Available for: Freelance • Collaborations • Hackathons • Tech Projects • Research</h4>
 
 </div>
 
