@@ -96,8 +96,8 @@ Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Project
 
 [![📍 Workplace - Chennai, India](https://img.shields.io/badge/📍%20Workplace-Chennai%2C%20India-blueviolet)](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
 [![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://shamkumar06.github.io/)
-[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shamkumar06/)
-[![🧬 ORCID](https://img.shields.io/badge/🧬%20ORCID-View-green?logo=orcid)](https://orcid.org/0000-0000-0000-0000)
+[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/shamkumar06/](https://www.linkedin.com/in/sham-kumar-1303b6365/))
+[![🧬 ORCID](https://img.shields.io/badge/🧬%20ORCID-View-green?logo=orcid)](https://orcid.org/0009-0002-8689-5994)
 
 
 
