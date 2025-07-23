@@ -51,11 +51,17 @@
 ###
 <hr
 <!-- quote-start -->
+
 <h2 align="center">📜 Quote of the Moment</h2>
 
+
+
 <p align="center">
-  <strong><em>"<span id="quote-text">Your updated quote will appear here.</span>"</em></strong>
+
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
+
 </p>
+
 <!-- quote-end -->
 
 
