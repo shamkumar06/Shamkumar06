@@ -50,7 +50,9 @@
 
 ###
 <!-- quote-start -->
-📜 **Quote of the Moment:** <updating...>
+
+📜 **Quote of the Moment:** Monsters are not the only enemies – hunters can be, too.
+
 <!-- quote-end -->
 ###
 <h2 align="left">📈GitHub Performance Overview</h2>
