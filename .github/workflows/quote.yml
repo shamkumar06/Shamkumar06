@@ -1,0 +1,52 @@
+name: 🔁 Update Quote of the Day
+
+on:
+  schedule:
+    - cron: '*/50 * * * *'  # Every 50 minutes
+  workflow_dispatch:
+  
+permissions:
+  contents: write
+
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate random quote
+        id: quote
+        run: |
+          quotes=("Believe in your code."
+                  "Debugging is like being a detective."
+                  "Push yourself, not just your repo."
+                  "Stay curious, stay building."
+                  "Every error teaches something."
+                  "Make it work. Then make it better."
+                  "Think twice, code once."
+                  "Learn. Unlearn. Relearn."
+                  "Consistency > Motivation."
+                  "Code is poetry in logic.")
+
+          selected_quote=${quotes[$RANDOM % ${#quotes[@]}]}
+          echo "QUOTE<<EOF" >> $GITHUB_ENV
+          echo "$selected_quote" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- quote-start -->/,/<!-- quote-end -->/c\
+          <!-- quote-start -->\n\
+          📜 **Quote of the Moment:** '"$QUOTE"'\n\
+          <!-- quote-end -->' README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "🔁 Auto-update quote"
+          git push
