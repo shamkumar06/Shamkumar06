@@ -138,6 +138,7 @@ Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Project
 
 ###
 <div align="center">
+<a href="https://www.animatedimages.org/cat-cats-209.htm"><img src="https://www.animatedimages.org/data/media/209/animated-cat-image-0535.gif" border="0" alt="animated-cat-image-0535" /></a>
 
 <h1>💡 <em>Stay curious.</em><br>
 🎨 <em>Stay creative.</em><br>
