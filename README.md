@@ -49,11 +49,16 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ###
+<hr
 <!-- quote-start -->
+<h2 align="center">📜 Quote of the Moment</h2>
 
-📜 **Quote of the Moment:** Monsters are not the only enemies – hunters can be, too.
-
+<p align="center">
+  <strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
+</p>
 <!-- quote-end -->
+
+<hr
 ###
 <h2 align="left">📈GitHub Performance Overview</h2>
 <div align="center">
