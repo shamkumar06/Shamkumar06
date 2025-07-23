@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not over until I give up."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
