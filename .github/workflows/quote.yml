@@ -78,10 +78,15 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/<!-- quote-start -->/,/<!-- quote-end -->/c\
-          <!-- quote-start -->\n\
-          📜 **Quote of the Moment:** '"$QUOTE"'\n\
-          <!-- quote-end -->' README.md
+         sed -i '/<!-- quote-start -->/,/<!-- quote-end -->/c\
+         <!-- quote-start -->\n\
+         <h2 align="center">📜 Quote of the Moment</h2>\n\
+         \n\
+         <p align="center">\n\
+         <strong><em>"'"$QUOTE"'"</em></strong>\n\
+         </p>\n\
+         <!-- quote-end -->' README.md
+
 
       - name: Commit and Push
         run: |
