@@ -126,6 +126,7 @@
 <div align="center">
 
 ### 📫 Contact  
+<a href="https://www.animatedimages.org/cat-email-235.htm"><img src="https://www.animatedimages.org/data/media/235/animated-email-image-0022.gif" border="0" alt="animated-email-image-0022" /></a>
 **Email:** [sham8056071949@gmail.com](mailto:sham8056071949@gmail.com)  
 Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Projects**, **Research**
 
