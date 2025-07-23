@@ -2,7 +2,7 @@ name: 🔁 Update Quote of the Day
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Every 10 minutes
+    - cron: '*/50 * * * *'  # Every 50 minutes
   workflow_dispatch:
   
 permissions:
@@ -69,8 +69,7 @@ jobs:
 "Not all heroes wear capes; some wear blood and dirt."  
 "My name is Sung Jinwoo, and I am not afraid of you."  
 "Let me show you the difference between us."  
-"From this moment forward, I am the Shadow Monarch."
-  )
+"From this moment forward, I am the Shadow Monarch.")
 
           selected_quote=${quotes[$RANDOM % ${#quotes[@]}]}
           echo "QUOTE<<EOF" >> $GITHUB_ENV
