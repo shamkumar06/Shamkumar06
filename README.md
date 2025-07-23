@@ -53,13 +53,8 @@
 <!-- quote-start -->
 
 <h2 align="center">📜 Quote of the Moment</h2>
-
-
-
 <p align="center">
-
-<strong><em>"It's not over until I give up."</em></strong>
-
+  <strong><em>"It's not over until I give up."</em></strong>
 </p>
 
 <!-- quote-end -->
