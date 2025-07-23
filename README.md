@@ -51,10 +51,13 @@
 ###
 <hr
 <!-- quote-start -->
+<h2 align="center">📜 Quote of the Moment</h2>
 
-📜 **Quote of the Moment:** Every wound is proof that I'm still alive.
-
+<p align="center">
+  <strong><em>"<span id="quote-text">Your updated quote will appear here.</span>"</em></strong>
+</p>
 <!-- quote-end -->
+
 
 <hr
 ###
