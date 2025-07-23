@@ -54,7 +54,7 @@
 
 
 
-<h2 align="center">📜 Quote of the Moment</h2>
+<h2 align="center">📜 Quote of the Moment (Magic in every 50 min😉)</h2>
 
 <p align="center">
 
