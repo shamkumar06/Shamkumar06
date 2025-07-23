@@ -51,11 +51,9 @@
 ###
 <hr
 <!-- quote-start -->
-<h2 align="center">📜 Quote of the Moment</h2>
 
-<p align="center">
-  <strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
-</p>
+📜 **Quote of the Moment:** Every wound is proof that I'm still alive.
+
 <!-- quote-end -->
 
 <hr
