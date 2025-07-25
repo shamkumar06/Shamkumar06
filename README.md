@@ -68,7 +68,9 @@
 
 
 <hr
+  
 ###
+
 <h2 align="left">📈GitHub Performance Overview</h2>
 <div align="center">
   <img align=centre src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200"   />
@@ -125,9 +127,14 @@
 
 <div align="center">
 
-### 📫 Contact  
+## 📫 Contact 
+
+<div align="left">
+<a href="https://www.animatedimages.org/cat-christmas-lines-1081.htm"><img src="https://www.animatedimages.org/data/media/1081/animated-christmas-line-image-0091.gif" border="0" alt="animated-christmas-line-image-0091" /></a>
+</div>
+
 <a href="https://www.animatedimages.org/cat-email-235.htm"><img src="https://www.animatedimages.org/data/media/235/animated-email-image-0022.gif" border="0" alt="animated-email-image-0022" /></a>
-**Email:** [sham8056071949@gmail.com](mailto:sham8056071949@gmail.com)  
+**Email:** [sham8056071949@gmail.com..................](mailto:sham8056071949@gmail.com)  
 Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Projects**, **Research**
 
 [![📍 Workplace - Chennai, India](https://img.shields.io/badge/📍%20Workplace-Chennai%2C%20India-blueviolet)](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
