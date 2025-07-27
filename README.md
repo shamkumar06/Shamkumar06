@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
+<strong><em>"If you make up your mind, the world will follow."</em></strong>
 
 </p>
 
