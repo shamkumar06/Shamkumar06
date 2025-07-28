@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"When you stare into the abyss, the abyss stares back at you."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
