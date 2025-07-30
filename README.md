@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
+<strong><em>"Some doors can never be closed once opened."</em></strong>
 
 </p>
 
