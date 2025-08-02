@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Arise."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
