@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I stood up because I was sick of kneeling."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
