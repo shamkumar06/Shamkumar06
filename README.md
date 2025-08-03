@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
+<strong><em>"Some doors can never be closed once opened."</em></strong>
 
 </p>
 
