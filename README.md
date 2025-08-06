@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
+<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
 
 </p>
 
