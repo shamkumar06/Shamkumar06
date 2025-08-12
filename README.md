@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"No one else needs to know what I've gone through."</em></strong>
 
 </p>
 
