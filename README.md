@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even if you kneel, they won't spare you."</em></strong>
+<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
 
 </p>
 
