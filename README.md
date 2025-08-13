@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
