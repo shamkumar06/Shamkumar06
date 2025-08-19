@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
+<strong><em>"If you make up your mind, the world will follow."</em></strong>
 
 </p>
 
