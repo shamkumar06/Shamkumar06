@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
