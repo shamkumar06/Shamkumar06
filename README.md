@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"Who's the real monster here?"</em></strong>
 
 </p>
 
