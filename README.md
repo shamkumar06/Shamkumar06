@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"Every death will be paid for."</em></strong>
 
 </p>
 
