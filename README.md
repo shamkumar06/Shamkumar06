@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
