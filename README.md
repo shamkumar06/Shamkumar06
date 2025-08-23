@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"The system... is both a blessing and a curse."</em></strong>
 
 </p>
 
