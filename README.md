@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
