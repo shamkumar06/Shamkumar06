@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
