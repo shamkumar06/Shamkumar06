@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"Some doors can never be closed once opened."</em></strong>
 
 </p>
 
