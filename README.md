@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
