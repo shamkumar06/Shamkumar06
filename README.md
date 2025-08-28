@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
+<strong><em>"The system... is both a blessing and a curse."</em></strong>
 
 </p>
 
