@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
 
 </p>
 
