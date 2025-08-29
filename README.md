@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
+<strong><em>"There's no turning back now."</em></strong>
 
 </p>
 
