@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I want to live. No, I will live."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
