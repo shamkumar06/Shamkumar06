@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
