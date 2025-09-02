@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
