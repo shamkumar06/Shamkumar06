@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
