@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not the person I once was."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
