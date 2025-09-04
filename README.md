@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
