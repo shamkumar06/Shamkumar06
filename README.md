@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
