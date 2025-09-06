@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Some doors can never be closed once opened."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
