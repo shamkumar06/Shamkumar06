@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This is not a miracle. It's hard work."</em></strong>
+<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
 
 </p>
 
