@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
