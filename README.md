@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
+<strong><em>"Every death will be paid for."</em></strong>
 
 </p>
 
