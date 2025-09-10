@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not weak anymore."</em></strong>
+<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
 
 </p>
 
