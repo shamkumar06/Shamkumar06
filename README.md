@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This is not a miracle. It's hard work."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
