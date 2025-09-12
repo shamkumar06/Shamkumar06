@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
