@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
