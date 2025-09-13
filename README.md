@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
