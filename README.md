@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"When you stare into the abyss, the abyss stares back at you."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
