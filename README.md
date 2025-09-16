@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
+<strong><em>"A king does not bow his head."</em></strong>
 
 </p>
 
