@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
