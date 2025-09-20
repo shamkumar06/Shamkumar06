@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
 
 </p>
 
