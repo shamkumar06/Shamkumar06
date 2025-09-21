@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
+<strong><em>"No one else needs to know what I've gone through."</em></strong>
 
 </p>
 
