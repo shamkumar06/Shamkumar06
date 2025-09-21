@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This is not a miracle. It's hard work."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
