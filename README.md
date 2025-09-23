@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
+<strong><em>"No one else needs to know what I've gone through."</em></strong>
 
 </p>
 
