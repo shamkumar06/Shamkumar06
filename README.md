@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
