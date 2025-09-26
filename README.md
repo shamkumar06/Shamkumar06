@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
 
 </p>
 
