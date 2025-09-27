@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
