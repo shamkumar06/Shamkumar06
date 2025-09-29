@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
