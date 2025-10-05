@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you make up your mind, the world will follow."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
