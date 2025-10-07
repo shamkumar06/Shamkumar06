@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
 
 </p>
 
