@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
 
 </p>
 
