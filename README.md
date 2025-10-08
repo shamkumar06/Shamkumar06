@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
