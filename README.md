@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
+<strong><em>"Let me show you the difference between us."</em></strong>
 
 </p>
 
