@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
