@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
