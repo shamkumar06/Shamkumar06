@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
 
 </p>
 
