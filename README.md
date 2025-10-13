@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"Every wound is proof that I'm still alive."</em></strong>
 
 </p>
 
