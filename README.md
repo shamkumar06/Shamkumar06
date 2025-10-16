@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
 
 </p>
 
