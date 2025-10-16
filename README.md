@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to know what I've gone through."</em></strong>
+<strong><em>"People fear what they don't understand."</em></strong>
 
 </p>
 
