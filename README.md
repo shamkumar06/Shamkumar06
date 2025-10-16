@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to know what I've gone through."</em></strong>
+<strong><em>"Even if you kneel, they won't spare you."</em></strong>
 
 </p>
 
