@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
 
 </p>
 
