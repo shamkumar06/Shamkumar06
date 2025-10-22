@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not the person I once was."</em></strong>
+<strong><em>"Who's the real monster here?"</em></strong>
 
 </p>
 
