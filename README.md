@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
 
 </p>
 
