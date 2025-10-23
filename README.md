@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
