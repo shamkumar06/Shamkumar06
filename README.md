@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not weak anymore."</em></strong>
+<strong><em>"I stood up because I was sick of kneeling."</em></strong>
 
 </p>
 
