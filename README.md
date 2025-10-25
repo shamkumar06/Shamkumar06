@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to die."</em></strong>
+<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
 
 </p>
 
