@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
