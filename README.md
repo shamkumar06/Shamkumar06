@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
 
 </p>
 
