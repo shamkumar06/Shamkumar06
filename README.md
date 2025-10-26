@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
