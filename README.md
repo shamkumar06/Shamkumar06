@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Some doors can never be closed once opened."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
