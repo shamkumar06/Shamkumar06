@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
