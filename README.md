@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
 
 </p>
 
