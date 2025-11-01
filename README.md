@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Arise."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
