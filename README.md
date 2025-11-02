@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
+<strong><em>"Some doors can never be closed once opened."</em></strong>
 
 </p>
 
