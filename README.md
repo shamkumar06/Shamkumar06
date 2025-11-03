@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
