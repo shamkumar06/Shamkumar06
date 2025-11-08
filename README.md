@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
