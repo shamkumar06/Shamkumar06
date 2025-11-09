@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Some doors can never be closed once opened."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
