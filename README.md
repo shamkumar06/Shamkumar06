@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
