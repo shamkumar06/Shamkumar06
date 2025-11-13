@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
