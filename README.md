@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
