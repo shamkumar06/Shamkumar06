@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The system... is both a blessing and a curse."</em></strong>
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
 
 </p>
 
