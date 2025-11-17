@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
 
 </p>
 
