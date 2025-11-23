@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not weak anymore."</em></strong>
+<strong><em>"No one else needs to die."</em></strong>
 
 </p>
 
