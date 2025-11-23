@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to know what I've gone through."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
