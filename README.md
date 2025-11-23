@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
