@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
