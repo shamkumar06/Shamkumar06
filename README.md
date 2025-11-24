@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
+<strong><em>"Every wound is proof that I'm still alive."</em></strong>
 
 </p>
 
