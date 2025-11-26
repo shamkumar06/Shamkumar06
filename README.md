@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
