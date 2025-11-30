@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"Sacrifice is not always glorious."</em></strong>
 
 </p>
 
