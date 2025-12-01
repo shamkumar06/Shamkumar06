@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
