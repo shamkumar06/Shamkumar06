@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The system... is both a blessing and a curse."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
