@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even if you kneel, they won't spare you."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
