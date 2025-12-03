@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
+<strong><em>"Who's the real monster here?"</em></strong>
 
 </p>
 
