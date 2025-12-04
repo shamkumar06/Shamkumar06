@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I want to live. No, I will live."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
