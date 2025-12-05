@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
+<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
 
 </p>
 
