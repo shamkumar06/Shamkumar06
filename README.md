@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
 
 </p>
 
