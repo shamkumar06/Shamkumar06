@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The system... is both a blessing and a curse."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
