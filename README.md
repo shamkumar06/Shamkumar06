@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"Let me show you the difference between us."</em></strong>
 
 </p>
 
