@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
 
 </p>
 
