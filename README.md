@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Some doors can never be closed once opened."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
