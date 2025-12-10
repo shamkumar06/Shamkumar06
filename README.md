@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
