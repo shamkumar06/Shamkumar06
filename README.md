@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"A king does not bow his head."</em></strong>
 
 </p>
 
