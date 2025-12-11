@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you make up your mind, the world will follow."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
