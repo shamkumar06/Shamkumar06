@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
