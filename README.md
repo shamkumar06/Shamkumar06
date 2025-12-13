@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
