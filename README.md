@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
