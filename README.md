@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The system... is both a blessing and a curse."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
