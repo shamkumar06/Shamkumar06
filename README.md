@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
+<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
 
 </p>
 
