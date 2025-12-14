@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
+<strong><em>"Let me show you the difference between us."</em></strong>
 
 </p>
 
