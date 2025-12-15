@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
