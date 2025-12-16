@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
+<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
 
 </p>
 
