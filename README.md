@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I want to live. No, I will live."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
