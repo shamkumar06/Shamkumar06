@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
