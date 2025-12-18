@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
+<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
 
 </p>
 
