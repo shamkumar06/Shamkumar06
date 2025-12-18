@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
