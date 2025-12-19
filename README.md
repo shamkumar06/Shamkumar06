@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not weak anymore."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
