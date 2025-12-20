@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
