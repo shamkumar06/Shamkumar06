@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
