@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to know what I've gone through."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
