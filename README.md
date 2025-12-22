@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"Even if you kneel, they won't spare you."</em></strong>
 
 </p>
 
