@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"No one else needs to know what I've gone through."</em></strong>
 
 </p>
 
