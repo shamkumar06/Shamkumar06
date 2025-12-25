@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"When you stare into the abyss, the abyss stares back at you."</em></strong>
 
 </p>
 
