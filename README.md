@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
 
 </p>
 
