@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not the person I once was."</em></strong>
+<strong><em>"Every death will be paid for."</em></strong>
 
 </p>
 
