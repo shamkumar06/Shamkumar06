@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
