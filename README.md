@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
 
 </p>
 
