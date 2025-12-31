@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
+<strong><em>"Even if you kneel, they won't spare you."</em></strong>
 
 </p>
 
