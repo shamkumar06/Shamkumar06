@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
+<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
 
 </p>
 
