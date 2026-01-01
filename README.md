@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This is not a miracle. It's hard work."</em></strong>
+<strong><em>"The system... is both a blessing and a curse."</em></strong>
 
 </p>
 
