@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
