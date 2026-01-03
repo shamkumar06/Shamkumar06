@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
