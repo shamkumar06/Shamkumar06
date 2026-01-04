@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
