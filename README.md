@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
 
 </p>
 
