@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
