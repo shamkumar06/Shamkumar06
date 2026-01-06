@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
+<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
 
 </p>
 
