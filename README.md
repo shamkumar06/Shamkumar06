@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not the person I once was."</em></strong>
+<strong><em>"Those who are prepared never die."</em></strong>
 
 </p>
 
