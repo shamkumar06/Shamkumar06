@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
