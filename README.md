@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No price is too high for my family's safety."</em></strong>
+<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
 
 </p>
 
