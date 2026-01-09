@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"Every wound is proof that I'm still alive."</em></strong>
 
 </p>
 
