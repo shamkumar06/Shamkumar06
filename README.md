@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I stood up because I was sick of kneeling."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
