@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
+<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
 
 </p>
 
