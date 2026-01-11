@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
 
 </p>
 
