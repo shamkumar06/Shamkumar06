@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to die."</em></strong>
+<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
 
 </p>
 
