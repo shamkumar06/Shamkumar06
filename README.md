@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
+<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
 
 </p>
 
