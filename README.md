@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
