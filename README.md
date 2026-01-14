@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
