@@ -73,8 +73,6 @@
 
 <h2 align="left">📈GitHub Performance Overview</h2>
 <div align="center">
-  <img align=centre src="https://github-readme-stats.vercel.app/api?username=shamkumar06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200"   />
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <img align=centre src="https://streak-stats.demolab.com?user=shamkumar06&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200"   />
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <img align=centre src="https://github-readme-activity-graph.vercel.app/graph?username=shamkumar06&radius=16&theme=tokyonight&area=true&order=50" height="300" alt="activity-graph graph"  />
