@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
