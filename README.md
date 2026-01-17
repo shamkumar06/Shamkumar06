@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
+<strong><em>"Those who are prepared never die."</em></strong>
 
 </p>
 
