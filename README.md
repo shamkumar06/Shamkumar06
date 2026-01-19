@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"Arise."</em></strong>
 
 </p>
 
