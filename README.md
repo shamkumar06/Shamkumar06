@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
+<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
 
 </p>
 
