@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"Let me show you the difference between us."</em></strong>
 
 </p>
 
