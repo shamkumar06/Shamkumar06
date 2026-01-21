@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
