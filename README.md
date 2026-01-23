@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to die."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
