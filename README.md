@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
+<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
 
 </p>
 
