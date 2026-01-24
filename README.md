@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
 
 </p>
 
