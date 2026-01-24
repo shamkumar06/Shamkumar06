@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
+<strong><em>"The system... is both a blessing and a curse."</em></strong>
 
 </p>
 
