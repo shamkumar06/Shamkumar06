@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you make up your mind, the world will follow."</em></strong>
+<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
 
 </p>
 
