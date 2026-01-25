@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
