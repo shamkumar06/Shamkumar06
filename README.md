@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"A king does not bow his head."</em></strong>
 
 </p>
 
