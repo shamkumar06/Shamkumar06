@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"There's no turning back now."</em></strong>
 
 </p>
 
