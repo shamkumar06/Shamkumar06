@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
