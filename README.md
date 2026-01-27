@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
