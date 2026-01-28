@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
