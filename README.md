@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
+<strong><em>"Some doors can never be closed once opened."</em></strong>
 
 </p>
 
