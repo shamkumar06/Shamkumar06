@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
