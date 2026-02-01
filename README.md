@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
