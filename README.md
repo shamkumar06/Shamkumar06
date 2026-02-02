@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
+<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
 
 </p>
 
