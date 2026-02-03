@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
 
 </p>
 
