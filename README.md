@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
+<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
 
 </p>
 
