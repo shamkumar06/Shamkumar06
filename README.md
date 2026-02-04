@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not over until I give up."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
