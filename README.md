@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not over until I give up."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
