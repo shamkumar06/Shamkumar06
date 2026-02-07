@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to die."</em></strong>
+<strong><em>"Let me show you the difference between us."</em></strong>
 
 </p>
 
