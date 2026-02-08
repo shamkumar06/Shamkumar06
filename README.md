@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to know what I've gone through."</em></strong>
+<strong><em>"If you make up your mind, the world will follow."</em></strong>
 
 </p>
 
