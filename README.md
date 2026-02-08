@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No price is too high for my family's safety."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
