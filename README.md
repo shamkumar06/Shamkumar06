@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"When you stare into the abyss, the abyss stares back at you."</em></strong>
 
 </p>
 
