@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
