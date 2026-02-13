@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"A king does not bow his head."</em></strong>
 
 </p>
 
