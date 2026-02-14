@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I want to live. No, I will live."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
