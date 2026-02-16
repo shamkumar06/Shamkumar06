@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
