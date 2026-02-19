@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
