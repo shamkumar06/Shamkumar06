@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you make up your mind, the world will follow."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
