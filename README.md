@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
