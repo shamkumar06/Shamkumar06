@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
