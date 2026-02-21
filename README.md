@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
