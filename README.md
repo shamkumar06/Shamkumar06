@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
+<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
 
 </p>
 
