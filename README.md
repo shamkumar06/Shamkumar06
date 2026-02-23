@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
