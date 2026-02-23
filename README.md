@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
 
 </p>
 
