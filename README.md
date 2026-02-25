@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
