@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
 
 </p>
 
