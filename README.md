@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I stood up because I was sick of kneeling."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
