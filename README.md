@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
