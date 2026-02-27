@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
+<strong><em>"Who's the real monster here?"</em></strong>
 
 </p>
 
