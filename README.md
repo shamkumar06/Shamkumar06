@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
