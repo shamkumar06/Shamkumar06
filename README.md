@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
+<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
 
 </p>
 
