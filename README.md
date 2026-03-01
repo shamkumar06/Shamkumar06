@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
