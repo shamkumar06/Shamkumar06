@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
