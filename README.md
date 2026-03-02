@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
+<strong><em>"Even if you kneel, they won't spare you."</em></strong>
 
 </p>
 
