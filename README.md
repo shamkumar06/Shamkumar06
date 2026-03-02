@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to die."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
