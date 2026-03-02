@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
+<strong><em>"Even if you kneel, they won't spare you."</em></strong>
 
 </p>
 
