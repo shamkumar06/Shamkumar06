@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I stood up because I was sick of kneeling."</em></strong>
+<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
 
 </p>
 
