@@ -16,7 +16,7 @@
 <hr style="border: 1px solid #ccc; width: 80%;">
 
 
-<h1 align="center">🚀 Step into Sham’s Hybrid Universe</h1>
+<h1 align="center">🚀 Step into My Hybrid Universe</h1>
 
 
 ###
