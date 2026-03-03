@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
