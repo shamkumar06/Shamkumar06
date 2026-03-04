@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even if you kneel, they won't spare you."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
