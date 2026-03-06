@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"Sacrifice is not always glorious."</em></strong>
 
 </p>
 
