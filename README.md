@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
