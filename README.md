@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
