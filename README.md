@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to die."</em></strong>
+<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
 
 </p>
 
