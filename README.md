@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No price is too high for my family's safety."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
