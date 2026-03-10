@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
