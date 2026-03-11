@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
+<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
 
 </p>
 
