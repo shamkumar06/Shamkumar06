@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
