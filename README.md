@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
