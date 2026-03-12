@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
