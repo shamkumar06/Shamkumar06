@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
 
 </p>
 
