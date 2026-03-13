@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
