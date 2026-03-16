@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
+<strong><em>"If you make up your mind, the world will follow."</em></strong>
 
 </p>
 
