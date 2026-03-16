@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Some doors can never be closed once opened."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
