@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
