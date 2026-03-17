@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
 
 </p>
 
