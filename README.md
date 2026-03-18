@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
+<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
 
 </p>
 
