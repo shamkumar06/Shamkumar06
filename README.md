@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not the person I once was."</em></strong>
+<strong><em>"You don't need a reason to save someone."</em></strong>
 
 </p>
 
