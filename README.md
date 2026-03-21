@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not weak anymore."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
