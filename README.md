@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not over until I give up."</em></strong>
+<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
 
 </p>
 
