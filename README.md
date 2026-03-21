@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
 
 </p>
 
