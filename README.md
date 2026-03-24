@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"There's no turning back now."</em></strong>
 
 </p>
 
