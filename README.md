@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
