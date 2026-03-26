@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
+<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
 
 </p>
 
