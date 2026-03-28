@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"Some doors can never be closed once opened."</em></strong>
 
 </p>
 
