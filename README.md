@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
