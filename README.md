@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"I stood up because I was sick of kneeling."</em></strong>
 
 </p>
 
