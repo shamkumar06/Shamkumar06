@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I want to live. No, I will live."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
