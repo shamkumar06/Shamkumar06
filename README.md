@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
