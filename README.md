@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
+<strong><em>"Every death will be paid for."</em></strong>
 
 </p>
 
