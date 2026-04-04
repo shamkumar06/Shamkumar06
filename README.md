@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
