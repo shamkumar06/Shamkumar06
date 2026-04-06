@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"It's not over until I give up."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
