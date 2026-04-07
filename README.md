@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
