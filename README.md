@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
