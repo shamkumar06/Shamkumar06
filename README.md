@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"Let me show you the difference between us."</em></strong>
 
 </p>
 
