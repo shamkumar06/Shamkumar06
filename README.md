@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
