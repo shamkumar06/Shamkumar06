@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
