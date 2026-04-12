@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"I stood up because I was sick of kneeling."</em></strong>
 
 </p>
 
