@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
 
 </p>
 
