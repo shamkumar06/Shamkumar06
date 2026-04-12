@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
