@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
