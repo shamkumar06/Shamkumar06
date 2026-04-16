@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
+<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
 
 </p>
 
