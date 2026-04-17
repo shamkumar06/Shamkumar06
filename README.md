@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"When you stare into the abyss, the abyss stares back at you."</em></strong>
 
 </p>
 
