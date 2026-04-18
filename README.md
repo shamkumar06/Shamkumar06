@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
+<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
 
 </p>
 
