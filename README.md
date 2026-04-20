@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"Some doors can never be closed once opened."</em></strong>
 
 </p>
 
