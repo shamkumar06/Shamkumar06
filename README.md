@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
+<strong><em>"People fear what they don't understand."</em></strong>
 
 </p>
 
