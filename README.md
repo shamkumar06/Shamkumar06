@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
 
 </p>
 
