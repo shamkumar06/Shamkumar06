@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
