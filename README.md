@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
