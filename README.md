@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This is not a miracle. It's hard work."</em></strong>
+<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
 
 </p>
 
