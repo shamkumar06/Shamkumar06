@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I am not weak anymore."</em></strong>
+<strong><em>"The system... is both a blessing and a curse."</em></strong>
 
 </p>
 
