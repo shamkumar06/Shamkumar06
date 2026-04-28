@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
