@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Some doors can never be closed once opened."</em></strong>
+<strong><em>"I have to become stronger. For myself, for my family."</em></strong>
 
 </p>
 
