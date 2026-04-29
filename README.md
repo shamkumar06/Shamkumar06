@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"From now on, I decide my own fate."</em></strong>
+<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
 
 </p>
 
