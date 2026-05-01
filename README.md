@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
