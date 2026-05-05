@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
