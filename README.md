@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"I stood up because I was sick of kneeling."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
