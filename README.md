@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"This is not a miracle. It's hard work."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
