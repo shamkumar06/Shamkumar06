@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
+<strong><em>"This is not a miracle. It's hard work."</em></strong>
 
 </p>
 
