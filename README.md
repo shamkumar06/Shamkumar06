@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
