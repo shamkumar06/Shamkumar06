@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"The system... is both a blessing and a curse."</em></strong>
+<strong><em>"No one else needs to know what I've gone through."</em></strong>
 
 </p>
 
