@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<strong><em>"When you stare into the abyss, the abyss stares back at you."</em></strong>
+<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
 
 </p>
 
