@@ -49,6 +49,44 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ###
+<h2 align="left">I've experienced with</h2>
+
+###
+ <br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="62" alt="androidstudio logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="62" alt="anaconda logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="62" alt="android logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="62" alt="blender logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="62" alt="figma logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="62" alt="firebase logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="62" alt="git logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="62" alt="gradle logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="62" alt="html5 logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="62" alt="javascript logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="62" alt="jupyter logo"  />
+  <img width="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="62" alt="kaggle logo"  />
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<hr style="border: 1px solid #ccc; width: 80%;">
+
+
+<div align="center">
+  
+###
 <hr
 <!-- quote-start -->
 
@@ -86,40 +124,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shamkumar06/shamkumar06/output/pacman-contribution-graph.svg">
 </picture>
 
-
-###
-<h2 align="left">I've experienced with</h2>
-
-###
- <br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="62" alt="androidstudio logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="62" alt="anaconda logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="62" alt="android logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="62" alt="blender logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="62" alt="figma logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="62" alt="firebase logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="62" alt="git logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="62" alt="gradle logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="62" alt="html5 logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="62" alt="javascript logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="62" alt="jupyter logo"  />
-  <img width="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="62" alt="kaggle logo"  />
-</div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
 <hr style="border: 1px solid #ccc; width: 80%;">
 
 
@@ -137,7 +141,7 @@ Available for: **Freelance**, **Collaborations**, **Hackathons**, **Tech Project
 
 [![📍 Workplace - Chennai, India](https://img.shields.io/badge/📍%20Workplace-Chennai%2C%20India-blueviolet)](https://www.google.com/maps/place/Chennai,+Tamil+Nadu/)
 [![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue)](https://shamkumar06.github.io/)
-[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mr-g-sham-kumar-1303b6365/)
+[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/g-sham-kumar-1303b6365/)
 [![🧬 ORCID](https://img.shields.io/badge/🧬%20ORCID-View-green?logo=orcid)](https://orcid.org/0009-0002-8689-5994)
 </div>
 
