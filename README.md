@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
