@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
+<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
 
 </p>
 
