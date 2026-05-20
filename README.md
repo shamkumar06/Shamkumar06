@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"There's no turning back now."</em></strong>
+<strong><em>"The unknown is always terrifying."</em></strong>
 
 </p>
 
