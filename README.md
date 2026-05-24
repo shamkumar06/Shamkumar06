@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
+<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
 
 </p>
 
