@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
