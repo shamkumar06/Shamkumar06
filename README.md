@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"If you can't avoid it, then you might as well enjoy it."</em></strong>
+<strong><em>"Those who are prepared never die."</em></strong>
 
 </p>
 
