@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
 
 </p>
 
