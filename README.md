@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
+<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
 
 </p>
 
