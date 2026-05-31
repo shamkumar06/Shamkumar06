@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Courage isn't the absence of fear, but acting despite it."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
