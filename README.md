@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
+<strong><em>"It's not that I want to win. I just don't want to lose."</em></strong>
 
 </p>
 
