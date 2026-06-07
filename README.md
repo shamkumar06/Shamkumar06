@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
