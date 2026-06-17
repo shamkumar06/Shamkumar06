@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Even in a world where only the strong survive, I will become the strongest."</em></strong>
+<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
 
 </p>
 
