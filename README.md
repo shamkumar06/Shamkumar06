@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
