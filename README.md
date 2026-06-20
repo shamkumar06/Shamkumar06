@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
