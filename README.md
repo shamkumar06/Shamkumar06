@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every wound is proof that I'm still alive."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
