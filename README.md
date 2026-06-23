@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
 
 </p>
 
