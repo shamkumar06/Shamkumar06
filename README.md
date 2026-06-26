@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
 
 </p>
 
