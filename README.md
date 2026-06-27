@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Those who are prepared never die."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
