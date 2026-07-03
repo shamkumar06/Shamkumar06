@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"I am not weak anymore."</em></strong>
+<strong><em>"To survive, you must be willing to abandon your old self."</em></strong>
 
 </p>
 
