@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"I am not weak anymore."</em></strong>
 
 </p>
 
