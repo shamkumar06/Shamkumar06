@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"You must survive, no matter the cost."</em></strong>
+<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
 
 </p>
 
