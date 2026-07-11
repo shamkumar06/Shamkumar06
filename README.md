@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
