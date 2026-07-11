@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"The unknown is always terrifying."</em></strong>
 
 </p>
 
