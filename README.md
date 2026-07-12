@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
+<strong><em>"There's no turning back now."</em></strong>
 
 </p>
 
