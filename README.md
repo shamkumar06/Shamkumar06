@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"The unknown is always terrifying."</em></strong>
 
 </p>
 
