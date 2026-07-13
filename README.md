@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"Arise."</em></strong>
 
 </p>
 
