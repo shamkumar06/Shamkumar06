@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Sacrifice is not always glorious."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
