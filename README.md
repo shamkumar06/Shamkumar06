@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
+<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
 
 </p>
 
