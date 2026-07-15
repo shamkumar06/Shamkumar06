@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"The world changes with or without your consent."</em></strong>
 
 </p>
 
