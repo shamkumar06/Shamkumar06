@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
+<strong><em>"From this moment forward, I am the Shadow Monarch."</em></strong>
 
 </p>
 
