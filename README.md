@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Let me show you the difference between us."</em></strong>
+<strong><em>"They called me the weakest hunter, but none of them can look down on me now."</em></strong>
 
 </p>
 
