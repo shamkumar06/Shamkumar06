@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"No price is too high for my family's safety."</em></strong>
 
 </p>
 
