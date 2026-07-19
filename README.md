@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
+<strong><em>"It's not over until I give up."</em></strong>
 
 </p>
 
