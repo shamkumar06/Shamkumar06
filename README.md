@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"No price is too high for my family's safety."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
