@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"Who's the real monster here?"</em></strong>
 
 </p>
 
