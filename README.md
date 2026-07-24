@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Even if you kneel, they won't spare you."</em></strong>
+<strong><em>"Not everyone who fights monsters becomes a hero."</em></strong>
 
 </p>
 
