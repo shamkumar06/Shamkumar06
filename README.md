@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"My name is Sung Jinwoo, and I am not afraid of you."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
