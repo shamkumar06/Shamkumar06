@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"No one else needs to die."</em></strong>
 
 </p>
 
