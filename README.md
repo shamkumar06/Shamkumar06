@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Arise."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
