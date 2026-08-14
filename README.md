@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"One by one, I'll prove it. That I can do it."</em></strong>
+<strong><em>"Who's the real monster here?"</em></strong>
 
 </p>
 
