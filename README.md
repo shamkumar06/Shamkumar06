@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Don't blame the system. Blame your own weakness."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
