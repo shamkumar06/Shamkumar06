@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"Every wound is proof that I'm still alive."</em></strong>
 
 </p>
 
