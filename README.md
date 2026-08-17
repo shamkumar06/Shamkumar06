@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Arise."</em></strong>
+<strong><em>"If you make up your mind, the world will follow."</em></strong>
 
 </p>
 
