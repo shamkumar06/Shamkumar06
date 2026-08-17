@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"It's not over until I give up."</em></strong>
+<strong><em>"A king does not bow his head."</em></strong>
 
 </p>
 
