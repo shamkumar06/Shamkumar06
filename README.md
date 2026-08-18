@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"The world changes with or without your consent."</em></strong>
+<strong><em>"There's no turning back now."</em></strong>
 
 </p>
 
