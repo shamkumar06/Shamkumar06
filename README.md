@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"No price is too high for my family's safety."</em></strong>
+<strong><em>"Every death will be paid for."</em></strong>
 
 </p>
 
