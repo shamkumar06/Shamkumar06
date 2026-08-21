@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
 
 </p>
 
