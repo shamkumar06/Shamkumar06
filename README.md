@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
+<strong><em>"Arise."</em></strong>
 
 </p>
 
