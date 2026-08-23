@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Arise."</em></strong>
+<strong><em>"Today, I become someone who hunts the hunters."</em></strong>
 
 </p>
 
