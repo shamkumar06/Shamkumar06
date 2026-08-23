@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"A king does not bow his head."</em></strong>
+<strong><em>"The unknown is always terrifying."</em></strong>
 
 </p>
 
