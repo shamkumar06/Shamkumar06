@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Everyone wants power, but not everyone is prepared to pay the price."</em></strong>
+<strong><em>"A king does not bow his head."</em></strong>
 
 </p>
 
