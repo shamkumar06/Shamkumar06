@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"No one is born strong – we become strong."</em></strong>
 
 </p>
 
