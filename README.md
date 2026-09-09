@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Monsters are not the only enemies – hunters can be, too."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
