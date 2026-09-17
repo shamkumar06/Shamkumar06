@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"People fear what they don't understand."</em></strong>
 
 </p>
 
