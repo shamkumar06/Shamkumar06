@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"Not all heroes wear capes; some wear blood and dirt."</em></strong>
 
 </p>
 
