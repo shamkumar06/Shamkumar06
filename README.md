@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
