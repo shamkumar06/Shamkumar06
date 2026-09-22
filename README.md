@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Arise."</em></strong>
+<strong><em>"No one else needs to die."</em></strong>
 
 </p>
 
