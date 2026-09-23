@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Who's the real monster here?"</em></strong>
+<strong><em>"No one else needs to die."</em></strong>
 
 </p>
 
