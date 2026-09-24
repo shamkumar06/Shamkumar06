@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"People fear what they don't understand."</em></strong>
+<strong><em>"You must survive, no matter the cost."</em></strong>
 
 </p>
 
