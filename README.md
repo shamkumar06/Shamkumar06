@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"It's not over until I give up."</em></strong>
+<strong><em>"Even a single step can change your life."</em></strong>
 
 </p>
 
