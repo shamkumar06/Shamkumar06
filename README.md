@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"You don't need a reason to save someone."</em></strong>
+<strong><em>"Every death will be paid for."</em></strong>
 
 </p>
 
