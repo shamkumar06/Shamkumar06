@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"The unknown is always terrifying."</em></strong>
+<strong><em>"Let me show you the difference between us."</em></strong>
 
 </p>
 
