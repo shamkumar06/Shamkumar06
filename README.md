@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"No one else needs to know what I've gone through."</em></strong>
+<strong><em>"I want to live. No, I will live."</em></strong>
 
 </p>
 
