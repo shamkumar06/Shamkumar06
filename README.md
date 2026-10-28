@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Even a single step can change your life."</em></strong>
+<strong><em>"I am not the person I once was."</em></strong>
 
 </p>
 
