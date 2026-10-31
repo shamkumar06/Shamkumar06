@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"No one is born strong – we become strong."</em></strong>
+<strong><em>"This power... I will use it to protect the things I care about."</em></strong>
 
 </p>
 
