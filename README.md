@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"When you stare into the abyss, the abyss stares back at you."</em></strong>
+<strong><em>"Those who are prepared never die."</em></strong>
 
 </p>
 
