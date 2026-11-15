@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"Every death will be paid for."</em></strong>
+<strong><em>"From now on, I decide my own fate."</em></strong>
 
 </p>
 
