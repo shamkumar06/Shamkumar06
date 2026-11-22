@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<strong><em>"There are two types of people in this world: the hunters, and the hunted."</em></strong>
+<strong><em>"No one's coming to save us. We save ourselves."</em></strong>
 
 </p>
 
